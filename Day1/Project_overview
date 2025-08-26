@@ -1,0 +1,18 @@
+# Insurance Claim Approval Analysis
+
+## Problem Statement
+The insurance team has observed inconsistent claim approval rates across different accident types and age groups. Management wants to identify patterns in approvals to improve claim handling, reduce delays, and enhance customer satisfaction.
+
+## Objectives
+1. Analyze approval rates by accident type.
+2. Analyze approval rates by age group.
+3. Identify patterns or trends that may require process improvements or fraud detection.
+4. Provide actionable insights for stakeholders.
+
+## Data
+- `approval_table.csv` contains:
+  - claim_id
+  - age
+  - claim_amount
+  - accident_type
+  - approved (0 = rejected, 1 = approved)
